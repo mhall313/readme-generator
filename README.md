@@ -1,7 +1,8 @@
 # ReadMe Generator
+    
     ## Description
 
-    Node.js command line application to create professional readme documents
+    Node.js command line application to automate creating a professional readm.me
 
     ##Github Repo
 
@@ -18,11 +19,11 @@
 
     ## Installation
 
-    Run npm i or npm install before running the application
+    Run npm i or npm install on the command line before running index.js
 
     ## Usage
 
-    Follow the prompts provided to populate your readme.md
+    Follow the prompts provided to populate your readme
 
     ## Credits
 
