@@ -3,25 +3,25 @@
 
     Node.js command line application to create professional readme documents
 
-    ##Table of Contents
+    ## Table of Contents
     * [Installation](#installation)
     * [Usage](#usage)
     * [Credits](#credits)
     * [License](#license)
 
-    ##Installation
+    ## Installation
 
-    Run npm i or npm install
+    Run npm i or npm install prior to running the application
 
-    ##Usage
+    ## Usage
 
-    Answer the prompts for your project to generate a markdown style readme
+    Follow of the prompt to populate your readme
 
-    ##Credits
+    ## Credits
 
     NA
 
-    ##License
+    ## License
 
     ISC
 
