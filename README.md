@@ -1,48 +1,48 @@
-# Team Design
+# ReadMe Generator
     
-## Description
+  ## Description
 
-    Team generator command line application using node.js to create an html file displaying professionally formatted roster
+  Node.js command line application to create professional readme documents
 
-## Github Repo
+  ## Github Repo
 
-    github.com/undefined/template-engine
+  github.com/undefined/readme-generator
 
-## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](tests)
-* [Questions](#questions)
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](tests)
+  * [Questions](#questions)
 
-## Installation
+  ## Installation
 
-    Run npm i proir to running the project to install appropriate node packages
+  Run npm i to install appropriate node packages, like inquire to run the application
 
-## Usage
+  ## Usage
 
-    Follow this link to see a video of the application https://drive.google.com/file/d/16FLmxC--xpQ3faFacweIzxjHevvU_2Vk/view
+  Find a brief video of the application here https://drive.google.com/file/d/1u__-lbf7uPWwCfYCRsbb8LKwYuJbeLMS/view?usp=sharing
 
-## Credits
+  ## Credits
 
-    NA
+  NA
 
-## License
+  ## License
 
-    N/A
+  N/A
 
-## Contributing
-    
-    NA
+  ## Contributing
+  
+  NA
 
-## Tests
+  ## Tests
 
-    Run npm test to run the unit tests provided in the test folder
-    
-## Questions
+  NA
+  
+  ## Questions
 
-    If you have any questions on the functionality, or in general please visit http://github.com/mhall313 or reach out to hallmt313@gmail.com
+  If you have any questions on the functionality, or in general please visit http://github.com/mhall313 or reach out to hallmt313@gmail.com
 
   
