@@ -2,50 +2,50 @@
 function generateMarkdown(data) {
     return `# ${data.name}
     
-    ## Description
+  ## Description
 
-    ${data.description}
+  ${data.description}
 
-    ##Github Repo
+  ## Github Repo
 
-    github.com/${data.questions}/${data.github}
+  github.com/${data.questions}/${data.github}
 
-    ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Credits](#credits)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](tests)
-    * [Questions](#questions)
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](tests)
+  * [Questions](#questions)
 
-    ## Installation
+  ## Installation
 
-    ${data.installation}
+  ${data.installation}
 
-    ## Usage
+  ## Usage
 
-    ${data.usage}
+  ${data.usage}
 
-    ## Credits
+  ## Credits
 
-    ${data.credits}
+  ${data.credits}
 
-    ## License
+  ## License
 
-    ${data.license}
+  ${data.license}
 
-    ## Contributing
-    
-    ${data.contributing}
+  ## Contributing
+  
+  ${data.contributing}
 
-    ## Tests
+  ## Tests
 
-    ${data.tests}
-    
-    ## Questions
+  ${data.tests}
+  
+  ## Questions
 
-    If you have any questions on the functionality, or in general please visit http://github.com/${data.questions1} or reach out to ${data.questions2}
+  If you have any questions on the functionality, or in general please visit http://github.com/${data.questions1} or reach out to ${data.questions2}
 
   `;
   }

@@ -1,47 +1,47 @@
-# ReadMe Generator
+# Team Design
     
-    ## Description
+## Description
 
-    Node.js command line application to automate creating a professional readm.me
+    Team generator command line application using node.js to create an html file displaying professionally formatted roster
 
-    ##Github Repo
+## Github Repo
 
-    github.com/undefined/readme-generator
+    github.com/undefined/template-engine
 
-    ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Credits](#credits)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](tests)
-    * [Questions](#questions)
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](tests)
+* [Questions](#questions)
 
-    ## Installation
+## Installation
 
-    Run npm i or npm install on the command line before running index.js
+    Run npm i proir to running the project to install appropriate node packages
 
-    ## Usage
+## Usage
 
-    Follow the prompts provided to populate your readme
+    Follow this link to see a video of the application https://drive.google.com/file/d/16FLmxC--xpQ3faFacweIzxjHevvU_2Vk/view
 
-    ## Credits
+## Credits
 
     NA
 
-    ## License
+## License
 
     N/A
 
-    ## Contributing
+## Contributing
     
     NA
 
-    ## Tests
+## Tests
 
-    NA
+    Run npm test to run the unit tests provided in the test folder
     
-    ## Questions
+## Questions
 
     If you have any questions on the functionality, or in general please visit http://github.com/mhall313 or reach out to hallmt313@gmail.com
 
